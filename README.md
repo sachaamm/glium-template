@@ -1,6 +1,10 @@
 # glium-template
-Glium template. You can use the Debug on Windows with VsCode Debug file. Or other platforms, run :
+Glium template. 
+```
+cd my_project
+cargo install --path .
+cargo build 
+cargo run
+```
 
-```
-cd my_project && cargo start
-```
+ You can use the Debug on Windows with VsCode Debug file.
